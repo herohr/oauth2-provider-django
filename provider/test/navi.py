@@ -19,7 +19,7 @@ class ServiceTest(TestCase):
 
     @staticmethod
     def get_authorization_by_app(app, client_id, user_id):
-        
+        pass
 
 
     @staticmethod
